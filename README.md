@@ -2,7 +2,7 @@
 
 ## SDKs
 
-- [vika-fusion-sdk with TypeScript & Axios](https://github.com/vikadata/vika-fusion-sdk-typescript-axios): FusionAPI's SDK with JS NPM
+- [vika-fusion-sdk-typescript-axios](https://github.com/vikadata/vika-fusion-sdk-typescript-axios) - FusionAPI's SDK with JS NPM & TypeScript & Axios
 
 ## Command Line Tools
 
