@@ -2,7 +2,8 @@
 
 ## SDKs
 
-- JavaScript: [vika](https://github.com/vikadata/vika) - Vika's Official JavaScript SDK
+- JavaScript: [vika.js](https://github.com/vikadata/vika) - Vika's Official JavaScript SDK
+- Python: [vika.py](https://github.com/vikadata/vika) - Vika's Official Python SDK
 
 ## Command Line Tools
 
