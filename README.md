@@ -9,3 +9,8 @@
 ## Command Line Tools
 
 - [vika-cli](https://github.com/vikadata/vika-cli): Vika's Official Command Line Tool for develoeprs.
+
+## Community
+
+- Discord: https://discord.gg/Kq59ykFV
+- QQ Group: 683795224
