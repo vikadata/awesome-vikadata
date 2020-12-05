@@ -2,8 +2,9 @@
 
 ## SDKs
 
-- JavaScript: [vika.js](https://github.com/vikadata/vika) - Vika's Official JavaScript SDK
-- Python: [vika.py](https://github.com/vikadata/vika) - Vika's Official Python SDK
+- JavaScript: [vika.js](https://github.com/vikadata/vika.js) - Vika's Official JavaScript SDK
+- Python: [vika.py](https://github.com/vikadata/vika.py) - Vika's Official Python SDK
+- Golang: [vika.go](https://github.com/vikadata/vika.go) - Vika's Official Golang SDK
 
 ## Command Line Tools
 
