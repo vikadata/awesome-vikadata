@@ -4,11 +4,14 @@
 ## SDKs for Vika API
 维格表 API SDK 集合，覆盖主流语言
 
-- JavaScript: [vika.js](https://github.com/vikadata/vika.js) - Vika's Official JavaScript SDK
-- Python: [vika.py](https://github.com/vikadata/vika.py) - Vika's Official Python SDK
-- Golang: [vika.go](https://github.com/vikadata/vika.go) - Vika's Official Golang SDK
-- Java: [vika.java](https://github.com/vikadata/vika.java) - vika's Official Java SDK
-- PHP: [vika.php](https://github.com/vikadata/vika.php) - Vika's Official PHP SDK
+### 官方维护的 SDK
+- JavaScript: [vika.js](https://github.com/vikadata/vika.js) - Official Vika JavaScript SDK
+- Python: [vika.py](https://github.com/vikadata/vika.py) - Official Vika Python SDK
+
+### 社区维护的 SDK
+- Golang: [vika.go](https://github.com/vikadata/vika.go) - Third party vika Golang SDK
+- Java: [vika.java](https://github.com/vikadata/vika.java) - Third party vika Java SDK
+- PHP: [vika.php](https://github.com/vikadata/vika.php) - Third party vika PHP SDK
 
 ## Developer tools for Vika Widget
 维格表小组件开发工具，帮助你高效开发自定义维格表小组件！
