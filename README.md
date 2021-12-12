@@ -20,9 +20,9 @@
 [维格表开发者中心 - 小组件](https://vika.cn/developers/widget/start)
 
 ## Open source Vika Widgets
-[widgets-todo-list-template](https://github.com/vikadata/widgets-todo-list-template)
-[widgets-developer-template](https://github.com/vikadata/widgets-developer-template)
-[widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript)
+- [widgets-todo-list-template](https://github.com/vikadata/widgets-todo-list-template)
+- [widgets-developer-template](https://github.com/vikadata/widgets-developer-template)
+- [widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript)
 
 ## Community
 - Discord: https://discord.gg/Kq59ykFV
