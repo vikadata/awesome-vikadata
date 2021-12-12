@@ -17,16 +17,12 @@
 
 ## Developer tools for Vika Widget
 维格表小组件开发工具，帮助你高效开发自定义维格表小组件！
-
-- widget-cli
-- widget-sdk
-
-coming soon ~
+[维格表开发者中心 - 小组件](https://vika.cn/developers/widget/start)
 
 ## Open source Vika Widgets
-开源小组件
-
-coming soon ~
+[widgets-todo-list-template](https://github.com/vikadata/widgets-todo-list-template)
+[widgets-developer-template](https://github.com/vikadata/widgets-developer-template)
+[widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript)
 
 ## Community
 - Discord: https://discord.gg/Kq59ykFV
