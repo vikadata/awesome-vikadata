@@ -14,7 +14,7 @@ Third party SDKs
 - Java: [vika.java](https://github.com/vikadata/vika.java) - Third party vika Java SDK
 - PHP: [vika.php](https://github.com/vikadata/vika.php) - Third party vika PHP SDK
 
-## 维格表小程序开发工具，你自定义开发维格表小程序
+## 维格表小程序开发工具，使用 React 自定义开发维格表小程序
 Developer tools for Vika Widget
 [维格表开发者中心 - 小程序](https://vika.cn/developers/widget/start)
 
