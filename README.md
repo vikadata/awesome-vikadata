@@ -30,6 +30,9 @@ Open source Vika Widgets
 - [widget-find-and-replace](https://github.com/Niko030303/vikadata-widget-find-and-replace) 批量查找替换小程序
 - [widgets-word-cloud](https://github.com/vikadata/widgets-word-cloud) 词云小程序
 - [widget-candlestick-chart](https://github.com/Niko030303/vikadata-widget-candlestick-chart) 股票k线图预览小程序
+- [widget-calendar-heatmap](https://github.com/Niko030303/vikadata-widget-calendar-heatmap) 日历热力图小程序
+
+
 
 
 ## 社区
