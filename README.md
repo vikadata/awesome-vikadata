@@ -31,6 +31,7 @@ Open source Vika Widgets
 - [widgets-word-cloud](https://github.com/vikadata/widgets-word-cloud) 词云小程序
 - [widget-candlestick-chart](https://github.com/Niko030303/vikadata-widget-candlestick-chart) 股票k线图预览小程序
 - [widget-calendar-heatmap](https://github.com/Niko030303/vikadata-widget-calendar-heatmap) 日历热力图小程序
+- [widget-translate-cells](https://github.com/yikeke/Translate-Cells-Vika-Widget) 单元格翻译小程序
 
 
 
