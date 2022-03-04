@@ -32,6 +32,9 @@ Open source Vika Widgets
 - [widget-candlestick-chart](https://github.com/Niko030303/vikadata-widget-candlestick-chart) 股票k线图预览小程序
 - [widget-calendar-heatmap](https://github.com/Niko030303/vikadata-widget-calendar-heatmap) 日历热力图小程序
 - [widget-translate-cells](https://github.com/yikeke/Translate-Cells-Vika-Widget) 单元格翻译小程序
+- [widget-url-preview](https://github.com/yikeke/URL-Preview-Vika-Widget) URL 预览小程序
+- [widget-import-from-excel](https://github.com/xukecheng/widget-import-from-excel) Excel 追加导入小程序
+- [widget-rent-map](https://github.com/laboonly/widgets-rent-map) 地图信息展示小程序
 
 
 
