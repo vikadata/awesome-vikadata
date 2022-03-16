@@ -35,6 +35,7 @@ Open source Vika Widgets
 - [widget-url-preview](https://github.com/yikeke/URL-Preview-Vika-Widget) URL 预览小程序
 - [widget-import-from-excel](https://github.com/xukecheng/widget-import-from-excel) Excel 追加导入小程序
 - [widget-rent-map](https://github.com/laboonly/widgets-rent-map) 地图信息展示小程序
+- [widget-tencent-docs-preview](https://github.com/Cococococococococococococo/tencent) 腾讯文档预览小程序
 
 
 
