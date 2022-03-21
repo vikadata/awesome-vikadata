@@ -20,9 +20,14 @@ Developer tools for Vika Widget
 
 ## 开源维格小程序
 Open source Vika Widgets
+
+### 官方开源
 - [widgets-todo-list-template](https://github.com/vikadata/widgets-todo-list-template) TodoMVC 示例
 - [widgets-developer-template](https://github.com/vikadata/widgets-developer-template) 开发者模板
 - [widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript) HelloWorld 模板
+- [widget-pivot-table](https://github.com/alolonghun/vikadata-widget-pivot-table) 透视表小程序
+
+### 第三方开源
 - [widget-docx-generator](https://github.com/kwp-lab/vikadata-widget-docx-generator) Word 文档生成器
 - [widget-random](https://github.com/Liamzai/vika-random-widget) 抽奖小程序
 - [widgets-radar](https://github.com/kwp-lab/vikadata-widget-radar) 雷达图小程序
@@ -36,7 +41,6 @@ Open source Vika Widgets
 - [widget-import-from-excel](https://github.com/xukecheng/widget-import-from-excel) Excel 追加导入小程序
 - [widget-rent-map](https://github.com/laboonly/widgets-rent-map) 地图信息展示小程序
 - [widget-tencent-docs-preview](https://github.com/Cococococococococococococo/tencent) 腾讯文档预览小程序
-- [widget-pivot-table](https://github.com/alolonghun/vikadata-widget-pivot-table) 透视表小程序
 
 
 
