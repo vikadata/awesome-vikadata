@@ -25,7 +25,7 @@ Open source Vika Widgets
 - [widgets-todo-list-template](https://github.com/vikadata/widgets-todo-list-template) TodoMVC 示例
 - [widgets-developer-template](https://github.com/vikadata/widgets-developer-template) 开发者模板
 - [widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript) HelloWorld 模板
-- [widget-pivot-table](https://github.com/alolonghun/vikadata-widget-pivot-table) 透视表小程序
+- [widget-pivot-table](https://github.com/vikadata/vikadata-widget-pivot-table) 透视表小程序
 
 ### 第三方开源
 - [widget-docx-generator](https://github.com/kwp-lab/vikadata-widget-docx-generator) Word 文档生成器
