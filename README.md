@@ -23,6 +23,11 @@
 - Java: [vika.java](https://github.com/vikadata/vika.java) - Third party vika Java SDK
 - PHP: [vika.php](https://github.com/vikadata/vika.php) - Third party vika PHP SDK
 
+## 🎯开源 API 项目/插件
+
+### 第三方开源
+- [wechat-openai-qa-bot](https://github.com/choogoo/wechat-openai-qa-bot) 微信智能问答机器人系统
+
 ## 🎯维格表小程序开发工具
 维格小程序是维格表推出的扩展功能。通过小程序，可以让表里的数据得到延伸扩展，让数据得到更充分的有效利用，实现更丰富的数据传输和数据可视化。
 
@@ -57,7 +62,6 @@
 - [widget-import-from-excel](https://github.com/xukecheng/widget-import-from-excel) Excel 追加导入小程序
 - [widget-rent-map](https://github.com/laboonly/widgets-rent-map) 地图信息展示小程序
 - [widget-tencent-docs-preview](https://github.com/Cococococococococococococo/tencent) 腾讯文档预览小程序
-
 
 ## 🔍交流共创
 「[维格社区](https://bbs.vika.cn/feature/2)」是 vika维格表官方交流平台，我们在社区中设立了开发者专栏。
