@@ -48,6 +48,8 @@
 - [widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript) HelloWorld 模板
 - [widget-chart](https://github.com/vikadata/widget-chart) 图表小程序
 - [widget-pivot-table](https://github.com/vikadata/vikadata-widget-pivot-table) 透视表小程序
+- [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) 漏斗图小程序
+
 
 ### 第三方开源
 - [widget-docx-generator](https://github.com/kwp-lab/vikadata-widget-docx-generator) Word 文档生成器
