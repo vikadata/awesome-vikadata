@@ -49,6 +49,8 @@
 - [widget-chart](https://github.com/vikadata/widget-chart) 图表小程序
 - [widget-pivot-table](https://github.com/vikadata/vikadata-widget-pivot-table) 透视表小程序
 - [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) 漏斗图小程序
+- [widget-datasheet-operation](https://github.com/vikadata/widget-datasheet-operation) 字段编辑器小程序
+
 
 
 ### 第三方开源
