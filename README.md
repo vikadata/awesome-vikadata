@@ -50,6 +50,8 @@
 - [widget-pivot-table](https://github.com/vikadata/vikadata-widget-pivot-table) 透视表小程序
 - [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) 漏斗图小程序
 - [widget-datasheet-operation](https://github.com/vikadata/widget-datasheet-operation) 字段编辑器小程序
+- [widget-map](https://github.com/vikadata/widget-map) 维格地图小程序
+
 
 
 
