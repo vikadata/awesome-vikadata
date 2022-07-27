@@ -1,3 +1,14 @@
+- [维格表开源周边 - Awesome-Vikadata](#维格表开源周边---awesome-vikadata)
+  - [🎯维格表 API SDK 集合，覆盖主流编程语言](#维格表-api-sdk-集合覆盖主流编程语言)
+    - [👨‍💻官方维护的 SDK](#官方维护的-sdk)
+    - [👨‍💻社区维护的 SDK](#社区维护的-sdk)
+  - [🎯开源 API 项目/插件](#开源-api-项目插件)
+    - [第三方开源](#第三方开源)
+  - [🎯开源维格小程序](#开源维格小程序)
+    - [官方开源](#官方开源)
+    - [第三方开源](#第三方开源-1)
+  - [🔍交流共创](#交流共创)
+
 # 维格表开源周边 - Awesome-Vikadata
 拒绝重复性工作，创造更高效的工作流。
 reject repetivie work and create more effective workflow.
@@ -28,8 +39,15 @@ reject repetivie work and create more effective workflow.
 
 ### 第三方开源
 - [wechat-openai-qa-bot](https://github.com/choogoo/wechat-openai-qa-bot) 微信智能问答机器人系统
+- [vikadata-downloader](https://github.com/kwp-lab/vika-downloader) 维格表附件批量下载器
+- [vikadata-uploader](https://github.com/kwp-lab/picgo-plugin-vikadata) 基于 Picgo 的维格表附件上传插件
+- [vikadata-faq-engine](https://github.com/kwp-lab/vika-faq-engine) 企业微信话术库
+- [idaeaPPT Bootstrap](https://github.com/kwp-lab/idealPPT-Bootstrap) 在线演示的 PPT 数据库
+- [notice-daily-paper](https://github.com/Niko030303/vikadata-api-notice-daily-paper) 定时日报提醒
+- [invitation-and-sign-in)](https://github.com/Niko030303/invitation-and-sign-in) 活动邀请与签到验证
+- [product-scan-code-entry](https://github.com/Niko030303/product-scan-code-entry) 固定资产扫码录入
 
-## 🎯维格表小程序开发工具
+
 维格小程序是维格表推出的扩展功能。通过小程序，可以让表里的数据得到延伸扩展，让数据得到更充分的有效利用，实现更丰富的数据传输和数据可视化。
 
 现在，维格表内支持自建小程序，让开发者充分运用 SDK 能力，开发更多符合业务场景和个人需求的小程序。
@@ -52,6 +70,7 @@ reject repetivie work and create more effective workflow.
 - [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) 漏斗图小程序
 - [widget-datasheet-operation](https://github.com/vikadata/widget-datasheet-operation) 字段编辑器小程序
 - [widget-map](https://github.com/vikadata/widget-map) 维格地图小程序
+- [widget-airtable-import](https://github.com/vikadata/widget-airtable-importhttps://github.com/vikadata/widget-airtable-import) Airtable 导入小程序
 
 
 
