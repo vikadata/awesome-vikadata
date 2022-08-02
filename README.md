@@ -44,7 +44,7 @@ reject repetivie work and create more effective workflow.
 - [vikadata-faq-engine](https://github.com/kwp-lab/vika-faq-engine) 企业微信话术库
 - [idaeaPPT Bootstrap](https://github.com/kwp-lab/idealPPT-Bootstrap) 在线演示的 PPT 数据库
 - [notice-daily-paper](https://github.com/Niko030303/vikadata-api-notice-daily-paper) 定时日报提醒
-- [invitation-and-sign-in)](https://github.com/Niko030303/invitation-and-sign-in) 活动邀请与签到验证
+- [invitation-and-sign-in](https://github.com/Niko030303/invitation-and-sign-in) 活动邀请与签到验证
 - [product-scan-code-entry](https://github.com/Niko030303/product-scan-code-entry) 固定资产扫码录入
 
 
