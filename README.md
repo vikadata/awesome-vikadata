@@ -76,7 +76,7 @@ reject repetivie work and create more effective workflow.
 - [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) 漏斗图小程序
 - [widget-datasheet-operation](https://github.com/vikadata/widget-datasheet-operation) 字段编辑器小程序
 - [widget-map](https://github.com/vikadata/widget-map) 维格地图小程序
-- [widget-airtable-import](https://github.com/vikadata/widget-airtable-importhttps://github.com/vikadata/widget-airtable-import) Airtable 导入小程序
+- [widget-airtable-import](https://github.com/vikadata/widget-airtable-import) Airtable 导入小程序
 
 
 
