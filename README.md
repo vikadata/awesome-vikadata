@@ -68,9 +68,10 @@ reject repetivie work and create more effective workflow.
 目前，该命令行工具已开源，我们欢迎开发者一起共创。
 
 ### 官方开源
-- [widgets-todo-list-template](https://github.com/vikadata/widgets-todo-list-template) TodoMVC 示例
-- [widgets-developer-template](https://github.com/vikadata/widgets-developer-template) 开发者模板
-- [widgets-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript) HelloWorld 模板
+- [widget-todo-list-template](https://github.com/vikadata/widgets-todo-list-template) TodoMVC 示例
+- [widget-developer-template](https://github.com/vikadata/widgets-developer-template) 开发者模板
+- [widget-hello-world-typescript](https://github.com/vikadata/widgets-hello-world-typescript) HelloWorld 模板
+- [widget-summary](https://github.com/vikadata/widget-summary) 统计与指标
 - [widget-chart](https://github.com/vikadata/widget-chart) 图表小程序
 - [widget-pivot-table](https://github.com/vikadata/vikadata-widget-pivot-table) 透视表小程序
 - [widget-funnel-chart](https://github.com/vikadata/widget-funnel-chart) 漏斗图小程序
@@ -84,10 +85,10 @@ reject repetivie work and create more effective workflow.
 ### 第三方开源
 - [widget-docx-generator](https://github.com/kwp-lab/vikadata-widget-docx-generator) Word 文档生成器
 - [widget-random](https://github.com/Liamzai/vika-random-widget) 抽奖小程序
-- [widgets-radar](https://github.com/kwp-lab/vikadata-widget-radar) 雷达图小程序
-- [widgets-record-preview](https://github.com/yikeke/URL-Preview-Vika-Widget) 记录预览小程序
+- [widget-radar](https://github.com/kwp-lab/vikadata-widget-radar) 雷达图小程序
+- [widget-record-preview](https://github.com/yikeke/URL-Preview-Vika-Widget) 记录预览小程序
 - [widget-find-and-replace](https://github.com/Niko030303/vikadata-widget-find-and-replace) 批量查找替换小程序
-- [widgets-word-cloud](https://github.com/vikadata/widgets-word-cloud) 词云小程序
+- [widget-word-cloud](https://github.com/vikadata/widgets-word-cloud) 词云小程序
 - [widget-candlestick-chart](https://github.com/Niko030303/vikadata-widget-candlestick-chart) 股票k线图预览小程序
 - [widget-calendar-heatmap](https://github.com/Niko030303/vikadata-widget-calendar-heatmap) 日历热力图小程序
 - [widget-translate-cells](https://github.com/yikeke/Translate-Cells-Vika-Widget) 单元格翻译小程序
