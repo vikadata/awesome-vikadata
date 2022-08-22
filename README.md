@@ -55,7 +55,7 @@ reject repetivie work and create more effective workflow.
 
 > 主要使用 React 自定义开发维格表小程序
 
-你可以通过阅读[《维格表开发者中心 - 小程序》](https://vika.cn/developers/widget/start)来上手小程序开发。
+你可以通过阅读[《维格表开发者中心 - 小程序》](https://vika.cn/developers/widget/quick-start)来上手小程序开发。
 
 为了更好地让开发者上手维格小程序开发，我们将官方小程序项目全部开源，并且收录了一部分第三方开发者的小程序项目。
 
