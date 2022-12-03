@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  position: relative;
+  z-index: 999;
+}
+.container .info {
+  display: flex;
+  align-items: center;
+  margin: 6px 0;
+  justify-content: space-between;
+}
+.container .info .label {
+  color: #333;
+  display: inline-flex;
+  text-align: left;
+  margin-right: 10px;
+  font-size: 13px;
+}
+.container .info .value {
+  color: #333;
+  font-weight: bold;
+  width: 150px;
+  font-size: 14px;
+}
+.container .info .value.company {
+  font-size: 12px;
+}
+.container .button {
+  margin-top: 30px;
+}
+.container .user-info {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 50px;
+}
+.container .status {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 14px;
+}
+.container .loading {
+  display: inline-flex;
+  align-items: center;
+}
+.container .select {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  margin-bottom: auto;
+  margin-top: 40px;
+}
+.container .selectwrap {
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+}

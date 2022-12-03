@@ -1,0 +1,18 @@
+{
+  "packageId": "wpkHrV9mj2P1C",
+  "spaceId": "spcxxxxxxxx",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "维卡表格打电话",
+    "en-US": "call"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "维卡表格打电话",
+    "en-US": "call description"
+  },
+  "globalPackageId": "wpkHrV9mj2P1C",
+  "sandbox": false
+}
