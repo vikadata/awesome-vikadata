@@ -97,11 +97,8 @@ reject repetivie work and create more effective workflow.
 - [widget-rent-map](https://github.com/laboonly/widgets-rent-map) 地图信息展示小程序
 - [widget-tencent-docs-preview](https://github.com/Cococococococococococococo/tencent) 腾讯文档预览小程序
 
-## 🔍交流共创
-「[维格社区](https://bbs.vika.cn/feature/2)」是 vika维格表官方交流平台，我们在社区中设立了开发者专栏。
+## 社区支持
 
-如果你有任何问题、反馈或功能请求，我们鼓励你在「[维格社区](https://bbs.vika.cn/feature/2)」中发帖或者评论。
+如果你基于维格表搭建出有趣的应用或工具，又或者有新颖的想法想跟其他用户交流，欢迎加入我们的 Discord 社区 👇
 
-如果你发现 awesome-vikadata 仓库的错误，请[提交问题](https://github.com/vikadata/awesome-vikadata/issues)。
-
-![developers](https://s1.vika.cn/space/2022/02/11/d933e1ca75084e09a96c50152a7ed4ac)
+[Join Discord](https://discord.gg/TwNb9nfdBU)
